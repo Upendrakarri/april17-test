@@ -1,0 +1,24 @@
+.details {
+    padding: 20px;
+    border: 2px solid red;
+    border-radius: 3PX;
+    text-align: center;
+}
+.one {
+    background-color: rgb(163, 106, 32);
+}
+.two {
+    background-color: rgb(201, 80, 98);
+}
+.three {
+    background-color: rgb(25, 74, 139);
+}
+.four {
+    background-color: lightslategray;
+}
+.five {
+    background-color: lightskyblue;
+}
+.six {
+    background-color: lightyellow;
+}
